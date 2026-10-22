@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA_Projects/Compact_Digital_Comparator/Compact_Digital_Comparator.srcs/sources_1/new/digital_comparator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module digital_comparator
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA_Projects/Compact_Digital_Comparator/Compact_Digital_Comparator.srcs/sim_1/new/digital_comparator_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module digital_comparator_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA_Projects/Compact_Digital_Comparator/Compact_Digital_Comparator.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
